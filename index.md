@@ -28,24 +28,6 @@ eventbrite:  "51632317652"         # optional: alphanumeric key for Eventbrite r
   And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-{% comment %}
-  EVENTBRITE
-
-  This block includes the Eventbrite registration widget if
-  'eventbrite' has been set in the header.  You can delete it if you
-  are not using Eventbrite, or leave it in, since it will not be
-  displayed if the 'eventbrite' field in the header is not set.
-{% endcomment %}
-{% if page.eventbrite %}
-<iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
-{% endif %}
-
 <h4> Python is one of the fastest growing open source programming languages. Currently, python is one of the most popular languages. In contrast to python, unix shell has been around for a long time. With unix shell you can do complex thing with a few keystrokes. In addition to coding, reproducability of researches is becomming essential. Therefore, this course will not only introduce you to python and unix shell but also to version control with git and Github.</h4>
 
 <h2 id="general">General Information</h2>
