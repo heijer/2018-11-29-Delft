@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4> Python is one of the fastest growing open source programming languages, and is currently one of the most popular languages. In contrast to python, unix shell has been around for a long time and allows. With unix shell you can do complex thing with a few keystrokes. In addition to coding, reproducability of researches is becomming essential. Therefore, this course will not only introduce you to python and unix shell but also to version control with git and Github.</h4>
+<h4> Python is one of the fastest growing open source programming languages. Currently, python is one of the most popular languages. In contrast to python, unix shell has been around for a long time. With unix shell you can do complex thing with a few keystrokes. In addition to coding, reproducability of researches is becomming essential. Therefore, this course will not only introduce you to python and unix shell but also to version control with git and Github.</h4>
 
 <h2 id="general">General Information</h2>
 
