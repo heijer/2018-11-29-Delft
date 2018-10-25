@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Delft University"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Software Carpentry Workshop - Delft University"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Mekelweg 5, 2628CD Delft"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "nl"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -28,7 +28,7 @@ eventbrite:  "51632317652"
   And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-<h4> Python is one of the fastest growing, and one of the most popular, open source programming languages. In contrast to python, unix shell has been around for a long time. With unix shell you can do complex thing with a few keystrokes. In addition to coding, reproducability of research is becomming essential in science. Therefore, this course will not only introduce you to python and unix shell but also to version control with git and Github.</h4>
+<h4> Python is one of the fastest growing, and one of the most popular, open source programming languages. In contrast to python, unix shell has been around for a long time. With unix shell you can do complex thing with a few keystrokes. In addition to coding, reproducibility of research is becoming essential in science. Therefore, this course will not only introduce you to python and unix shell but also to version control with git and Github.</h4>
 
 <h2 id="general">General Information</h2>
 
