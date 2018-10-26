@@ -15,7 +15,7 @@ instructor: ["Marieke Dirksen","Willem Ligtenberg","Kees den Heijer"] # boxed, c
 # helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["marieke.dirksen@knmi.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: ["https://pad.carpentries.org/29-11-2018-Delft"]   
-eventbrite:  "51632317652"        
+eventbrite:  "51705793420"        
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
