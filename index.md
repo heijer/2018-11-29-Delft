@@ -30,6 +30,12 @@ eventbrite:  "51632317652"
 
 <h4> Python is one of the fastest growing, and one of the most popular, open source programming languages. In contrast to python, unix shell has been around for a long time. With unix shell you can do complex thing with a few keystrokes. In addition to coding, reproducibility of research is becoming essential in science. Therefore, this course will not only introduce you to python and unix shell but also to version control with git and Github.</h4>
 
+{% comment %} EVENTBRITE
+
+This block includes the Eventbrite registration widget if 'eventbrite' has been set in the header. You can delete it if you are not using Eventbrite, or leave it in, since it will not be displayed if the 'eventbrite' field in the header is not set. {% endcomment %} {% if page.eventbrite %}
+
+<iframe src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe> {% endif %}
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
