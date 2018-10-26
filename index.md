@@ -1,8 +1,9 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Software Carpentry Workshop - Delft University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Mekelweg 5, 2628CD Delft"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "First Software Carpentry @TU Delft"        # brief name of host site without address (e.g., "Euphoric State University")
+address day 1: "Jaffalaan 5, 2628BX Delft"      
+address day2: "Mekelweg 2, 2628 CD Delft"
 country: "nl"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: ["52.011900,4.360260"]       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
@@ -74,14 +75,16 @@ This block includes the Eventbrite registration widget if 'eventbrite' has been 
   can use https://itouchmap.com/latlong.html to find the lat/long of an
   address.
 {% endcomment %}
-{% if page.latlng %}
+
 <p id="where">
-  <strong>Where:</strong>
-  {{page.address}}.
-  Get directions with
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+ The course has two different locations: 
+  
+ <ol> 
+ <li> 29 nov: TPM faculty room D2, <a href= "https://www.tudelft.nl/en/tpm/about-the-faculty/contact-and-map/"> Get directions </a> </li>
+ <li> 30 nov: 3mE faculty bar Het Lagerhuys, <a href= "https://www.tudelft.nl/en/3me/contact-and-map/"> Get directions </a> </li>
+ </ol> 
+  
 </p>
-{% endif %}
 
 {% comment %}
   DATE
