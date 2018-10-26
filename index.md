@@ -32,9 +32,9 @@ eventbrite:  "51632317652"
 
 {% comment %} EVENTBRITE
 
-This block includes the Eventbrite registration widget if 'eventbrite' has been set in the header. You can delete it if you are not using Eventbrite, or leave it in, since it will not be displayed if the 'eventbrite' field in the header is not set. {% endcomment %} {% if page.eventbrite %}
+This block includes the Eventbrite registration widget if 'eventbrite' has been set in the header. You can delete it if you are not using Eventbrite, or leave it in, since it will not be displayed if the 'eventbrite' field in the header is not set. {% endcomment %} 
 
-<iframe src="https://www.eventbrite.com/e/first-software-carpentry-tu-delft-python-with-jupyter-notebooks-git-and-shell-tickets-51705793420" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe> {% endif %}
+<iframe src="https://www.eventbrite.com/e/first-software-carpentry-tu-delft-python-with-jupyter-notebooks-git-and-shell-tickets-51705793420" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe> 
 
 <h2 id="general">General Information</h2>
 
