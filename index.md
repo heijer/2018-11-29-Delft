@@ -12,7 +12,7 @@ humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2018-11-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-11-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Marieke Dirksen","Willem Ligtenberg","Kees den Heijer"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Elin Vesper","Raúl A. Ortiz-Merino","Nadir Ahami","Victor, Koppejan"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Elin Vesper","Raúl A. Ortiz-Merino","Nadir Ahami","Victor Koppejan"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["marieke.dirksen@knmi.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: ["https://pad.carpentries.org/29-11-2018-Delft"]   
 eventbrite:  "51705793420"        
